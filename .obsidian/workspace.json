@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8da283d7e94e88b1",
+        "id": "f56263c1eda47b76",
         "type": "tabs",
         "children": [
           {
-            "id": "1e4f1aea3a799b99",
+            "id": "4a7a7cd4d5f03610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae3e687e35fd2caf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hehe.md",
+                "file": "oops/Lambda Expression.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hehe.md",
+                "file": "oops/Lambda Expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hehe.md",
+                "file": "oops/Lambda Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hehe.md"
+                "file": "oops/Lambda Expression.md"
+              }
+            }
+          },
+          {
+            "id": "83c9b946a983dc4f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -159,9 +156,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae3e687e35fd2caf",
+  "active": "4a7a7cd4d5f03610",
   "lastOpenFiles": [
-    "README.md",
+    "oops/OOPS - Threads.md",
+    "oops/Lambda Expression.md",
+    "oops/Static and non-static nested classes.md",
+    "![[Static and non-static nested classes 2023-10-19 10.06.46.excalidraw.md",
+    "oops/images/Pasted Image 20231019100731_570.jpg",
+    "oops/images/Pasted Image 20231019100716_546.jpg",
+    "DA/images/Pasted image 20231026140514.png",
+    "images",
+    "DA/Experiments/Experiment 3.md",
+    "DA/Experiments/Experiment 2.md",
+    "DA/Experiments/Experiment 4.md",
+    "DA/Experiments/Experiment 1.md",
+    "oops/images/README.md",
     "hehe.md"
   ]
 }
